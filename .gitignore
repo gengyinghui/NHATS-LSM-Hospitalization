@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local/raw data not for redistribution
+data/raw/
+*.dta
+*.sav
+*.sas7bdat
+*.zip
+
+# OS/editor
+.DS_Store
+Thumbs.db
+
+# Generated outputs can be committed if desired; leave uncommented to keep them local only
+# outputs/figures/*
+# outputs/tables/*
